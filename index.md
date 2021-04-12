@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>20181010 신은경</title>
+ <link rel="stylesheet" href="css.css">
+	
+</head>
 
-You can use the [editor on GitHub](https://github.com/Eungyeong617/assignment1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eungyeong617/assignment1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body>
+<h1 class="font_arial">Stroytelling</h1>
+<h2>&nbsp;1. 기획의도</h2>
+	<p>전쟁의 회의감을 모션그래픽으로 희화화하기 위함</p>
+<h2>&nbsp;2. 기획목표</h2>
+<ul>
+	<li>단순화</li>
+	<li>추상화</li>
+</ul>
+<h2>&nbsp;3. 계획</h2>
+	<ul>
+	<li>장면 고르기</li>
+	<li>모션그래픽 기획 및 만들기</li>
+	<li>웹사이트 디자인 기획</li>
+	<li>웹사이트 구축</li>
+</ul>
+<h2>&nbsp;4. 세부 내용</h2>
+<h2>&nbsp;5. 레퍼런스(모션그래픽 위주)</h2>
+<p> <a href="https://www.youtube.com/watch?v=FaRJH7aSE9g">토르 라그나로크 명장면</a> (토르, 로키, 발키리, 헬의 전쟁 장면 참고)</p>
+<p> <a href="http://kmu-entd.kr/">국민대 영상디자인과 홈페이지</a> (홈페이지 디자인 참고 예정)</p>
+<img src="../../다운로드.jpg" alt="토르" width="100"/>
+<img src="../../991D2D335A02655637.jpg" alt="토르" width="100"/>
+<img src="../../토르_라그나로크.jpg" alt="토르" width="100"/>
+</body>
+</html>
