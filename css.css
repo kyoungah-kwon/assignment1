@@ -6,4 +6,8 @@ a{
 		text-decoration: none;
 		border: 2px solid #004fff
      }
-h1{color:red}
+h1{
+		color:red;
+		text-decoration: underline;
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	 }
